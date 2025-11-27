@@ -70,7 +70,10 @@ Angle between (in degrees): 63.434949
 ### 1. **Clone the Repository**
 
 ```
-git clone https://github.com/himalipatil25/vector-operations-explorer.git
+git clone https://github.com/himalipatil26/Maths-Projects.git
+```
+```
+cd Maths-Projects/Vector Operations Explorer
 ```
 
 ### 2. **Install Dependencies**
